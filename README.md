@@ -34,7 +34,10 @@
 #### OUTPUT
 <img width="431" height="263" alt="Image" src="https://github.com/user-attachments/assets/a7157511-220d-43f4-93eb-2af8ee91dda3" />
 
-#### 
+#### Question 6: What are the worst 10 TV shows based on IMDB score?
+<img width="365" height="175" alt="Image" src="https://github.com/user-attachments/assets/89fd2648-6cc6-4f7a-891d-a49de017decf" />
+
+#### OUTPUT
 
 
 
