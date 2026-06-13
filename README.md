@@ -38,6 +38,44 @@
 <img width="365" height="175" alt="Image" src="https://github.com/user-attachments/assets/89fd2648-6cc6-4f7a-891d-a49de017decf" />
 
 #### OUTPUT
+<img width="467" height="270" alt="Image" src="https://github.com/user-attachments/assets/2c0b6225-0adf-427e-b3fb-bd2c4b0d1710" />
+
+#### Question 7: Which genres have the most movies in this dataset?
+<img width="332" height="218" alt="Image" src="https://github.com/user-attachments/assets/6b8aed6c-aedc-40ee-85e4-aee3551b1fee" />
+
+#### OUTPUT
+<img width="383" height="268" alt="Image" src="https://github.com/user-attachments/assets/486772bc-1be9-494f-aaea-ded93a5f39fb" />
+
+#### Question 8: Which genres have the most TV shows in this dataset?
+<img width="331" height="211" alt="Image" src="https://github.com/user-attachments/assets/07d66ab6-2bf3-4fe4-b9ea-dee2bad61103" />
+
+#### OUTPUT
+<img width="501" height="262" alt="Image" src="https://github.com/user-attachments/assets/9035a9a0-a04b-45ae-9b81-55a74344a67c" />
+
+#### Question 9: What are the top 3 most common genres?
+<img width="438" height="210" alt="Image" src="https://github.com/user-attachments/assets/56da2fe3-4d46-447e-a70c-4c1497d016c9" />
+
+#### OUTPUT
+<img width="377" height="107" alt="Image" src="https://github.com/user-attachments/assets/0e515d48-a1bc-4763-8116-f4c550b6641e" />
+
+#### Question 10: How many of Netflix's offered movies and TV shows are in each decade?
+<img width="567" height="192" alt="Image" src="https://github.com/user-attachments/assets/1a19fb77-1d75-4b8b-8a27-c54eb2e361c2" />
+
+#### OUTPUT
+<img width="275" height="172" alt="Image" src="https://github.com/user-attachments/assets/9f8b225a-f721-4366-ba1e-17537b318bf0" />
+
+#### Question 11: What were the total number of titles for each release year?
+<img width="307" height="167" alt="Image" src="https://github.com/user-attachments/assets/507f60cf-ed7d-48e2-a19f-79633a3f6a3f" />
+
+#### OUTPUT
+<img width="258" height="391" alt="Image" src="https://github.com/user-attachments/assets/6f45e51b-29a7-4454-8420-f75dac6cf7a0" />
+
+#### Question 12: Which release year had the greatest number of titles?
+<img width="297" height="201" alt="Image" src="https://github.com/user-attachments/assets/967fabcc-f6a1-4ffd-ad47-25ffae5bcbb5" />
+
+#### OUTPUT
+<img width="233" height="82" alt="Image" src="https://github.com/user-attachments/assets/a25667e2-7113-4184-b081-c6c80dbee563" />
+
 
 
 
